@@ -1,0 +1,7 @@
+[project]
+name = "caption-ui"
+version = "0.1.0"
+description = "Barebone WebUI for Editing Captions"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["gradio>=5.43.1"]
